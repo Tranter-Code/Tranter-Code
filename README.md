@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 - 🎓 **Education**: Graduated with a first class bachelors degree in Computer Science from [Birmingham City University](https://www.bcu.ac.uk).
 - 🔭 **Current Projects**: 
   - [Resume Website](https://github.com/Tranter-Code/Portfolio-and-CV-Website): I am working on a personal website that can be used as a CV hub to showcase the skills and attributes in which I excel.
+  - [Tetris Game](): Developing a basic reconstruction of Tetris in Python. Once basic gameplay is implemented, I will be looking into emplementing a pause feature and splash screen when booting the game up.
 - 🛠️ **Skills**: Proficient in Python, Java, HTML, CSS, JavaScript, PHP, SQL. I also have experience in database management, cloud computing, Linux, and API integration.
 - 💼 **Seeking**: I’m actively looking for full-time opportunities within the industry that will allow me to professionally enhance my experience.
 

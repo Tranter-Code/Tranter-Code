@@ -28,10 +28,3 @@ Welcome to my GitHub profile!
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranter-code&show_icons=true&hide_border=true)
-
-
-
-
-

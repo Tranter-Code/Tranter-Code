@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 - 🎓 **Education**: Graduated with a first class bachelors degree in Computer Science from [Birmingham City University](https://www.bcu.ac.uk).
 - 🔭 **Current Projects**: 
-  - [Tetris Game](): Developing a basic reconstruction of Tetris in Python. Once basic gameplay is implemented, I will be looking into emplementing a pause feature and splash screen when booting the game up.
+  - [TCG Utility](): Building a utility to track and display the health of players during a game of various trading card games. Started with one card game and has evolved to multiple TCGs with sound effects and quality of life features such as sound effects and themes. Ongoing project that will be added to and improved upon in an agile and casual style.
 - 🛠️ **Skills**: Proficient in Python, Java, HTML, CSS, JavaScript, PHP, SQL. I also have experience in database management, cloud computing, Linux, and API integration.
 - 💼 **Seeking**: I’m actively looking for full-time opportunities within the industry that will allow me to professionally enhance my experience.
 

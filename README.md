@@ -11,7 +11,6 @@ Welcome to my GitHub profile!
 - 🔭 **Current Projects**: 
   - [TCG Utility](https://github.com/Tranter-Code/CardGameUtility/tree/main): Building a utility to track and display the health of players during a game of various trading card games. Started with one card game and has evolved to multiple TCGs with sound effects and quality of life features such as sound effects and themes. Ongoing project that will be added to and improved upon in an agile and casual style.
 - 🛠️ **Skills**: Proficient in Python, Java, HTML, CSS, JavaScript, PHP, SQL. I also have experience in database management, cloud computing, Linux, and API integration.
-- 💼 **Seeking**: I’m actively looking for full-time opportunities within the industry that will allow me to professionally enhance my experience.
 
 # 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&borderRadius=8)](https://www.linkedin.com/in/david-tranter-726952105/)
